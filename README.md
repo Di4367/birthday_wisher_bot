@@ -23,6 +23,11 @@ Instead of forgetting or rushing to wish someone, let your Python bot send birth
 - `datetime` for date logic
 - Gmail App Passwords for secure email login
 
+📸Output-
+
+![image](https://github.com/user-attachments/assets/62b07d4c-1068-425e-a792-869516b78733)
+
+
 🧪 How to Use
 
 1. Add birthdays in the CSV file:
